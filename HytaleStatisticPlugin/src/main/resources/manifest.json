@@ -1,0 +1,20 @@
+{
+  "Group": "dev.ABBStudio",
+  "Name": "HytaleStatisticsPlugin",
+  "Version": "1.0.0",
+  "Description": "Description of your plugin",
+  "Authors": [
+    {
+      "Name": "Platon Neutron",
+      "Email": "your.email@example.com",
+      "Url": "https://your-website.com"
+    }
+  ],
+  "Website": "https://your-plugin-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "dev.ABBStudio.HytaleStatisticsPlugin"
+}
