@@ -1,8 +1,8 @@
 {
   "Group": "dev.ABBStudio",
   "Name": "HytaleStatisticsPlugin",
-  "Version": "1.0.0",
-  "Description": "Description of your plugin",
+  "Version": "0.0.1",
+  "Description": "A plugin to show players's statistics on the server.",
   "Authors": [
     {
       "Name": "Platon Neutron",
